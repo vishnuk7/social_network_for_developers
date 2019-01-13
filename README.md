@@ -9,3 +9,8 @@ This is Social Network For Developers {Using MERN(MongoDB, Express.js, React, an
 [Mern Logo](https://scotch-res.cloudinary.com/image/upload/dpr_3,w_350,q_auto:good,f_auto/v1540545426/tzs50mjrlopv85r3qjpq.jpg)
 
 Run these commonds to run this application
+
+```bash
+    npm install
+    npm start
+```
