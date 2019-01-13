@@ -1,3 +1,3 @@
 module.export = {
-    mongoURI:'add the mongouri'
+    mongoURI:'add the mogouri'
 }
